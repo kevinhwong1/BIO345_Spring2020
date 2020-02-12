@@ -1,7 +1,7 @@
 #BIO345 Spring 2020 - Lab 2
 #Author: Kevin Wong
 
-library(dbplyr)
+library(dplyr)
 library(tidyverse)
 library(readr)
 library(stringr)
@@ -19,10 +19,10 @@ TP_Data_all <- read.csv("Lab2_StandardCurves/Data/TP.1.data.csv") #import data
 standard <- TP_Data_all %>% 
   filter(Sample.Type == "Standard") 
 
-plot.Standard<- ggplot(data = standard, aes(x=Concentration, y=abs.corr))+ #plotting standard curve
-  ylab("Absorbance (nm)")+ xlab("Concentration") + 
-  geom_point()+
-  geom_smooth(method = "lm") +
+plot.Standard<- ggplot(data = standard, aes(x=Concentration, y=abs.corr)) + #plotting standard curve
+  ylab("Absorbance (nm)")+ xlab("Concentration") + #axis labels
+  geom_point()+ #points
+  geom_smooth(method = "lm") + #add line
   theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
@@ -32,4 +32,5 @@ lmsummary <- summary(lmstandard) #summarizing model
 
 samples <- TP_Data_all %>% #subsetting Samples
   filter(Sample.Type == "Sample") 
+
 samples$Concentration.calc <- predict(lmstandard, newdata = samples) #using model to get concentration

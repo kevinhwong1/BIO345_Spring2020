@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  Length_cm by Tank
+t = -0.87153, df = 77.435, p-value = 0.3862
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4249408  0.1661908
+sample estimates:
+mean in group cold  mean in group hot 
+          4.508000           4.637375 
+

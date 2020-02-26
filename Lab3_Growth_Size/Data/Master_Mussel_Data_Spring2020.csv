@@ -1,0 +1,81 @@
+﻿Mussel_ID,Group_ID,Tank,Timepoint,Length_cm,Width_cm,Weight_g
+1,Nate & Daniella,cold,1,4.912,2.298,8.1
+2,Nate & Daniella,cold,1,5.552,2.617,11.1
+3,Nate & Daniella,cold,1,4.394,1.983,4.9
+4,Nate & Daniella,cold,1,4.178,2.107,4.6
+5,Nate & Daniella,cold,1,4.249,2.226,5.1
+6,Emma & Andrea,cold,1,4.278,2.534,10.7
+7,Emma & Andrea,cold,1,3.67,1.889,5.2
+8,Emma & Andrea,cold,1,3.459,1.696,4
+9,Emma & Andrea,cold,1,3.603,1.827,5.3
+10,Emma & Andrea,cold,1,4.571,2.291,9.6
+11,"Andrew,Karla,Harrison",cold,1,5.557,2.765,13
+12,"Andrew,Karla,Harrison",cold,1,4.777,2.535,10.7
+13,"Andrew,Karla,Harrison",cold,1,4.446,2.338,6.9
+14,"Andrew,Karla,Harrison",cold,1,4.842,2.498,8.5
+15,"Andrew,Karla,Harrison",cold,1,3.981,2.349,5
+16,"Kevin, Jess, Allison",hot,1,4.73,2.35,10.5
+17,"Kevin, Jess, Allison",hot,1,4.552,2.295,7.9
+18,"Kevin, Jess, Allison",hot,1,5.817,2.794,17.5
+19,"Kevin, Jess, Allison",hot,1,3.799,1.893,5.5
+20,"Kevin, Jess, Allison",hot,1,4.385,2.178,6.8
+21,"Annie, Erin, Caitlin",cold,1,5.17,2.552,11.3
+22,"Annie,Erin, Caitlin",cold,1,4.77,2.49,8.4
+23,"Annie, Erin, Caitlin",cold,1,4.21,1.79,6.2
+24,"Annie,Erin, Caitlin",cold,1,4.12,2.01,6.8
+25,"Annie,Erin, Caitlin",cold,1,2.79,1.51,1.7
+26,Nate & Daniella,hot,1,5.257,2.411,9.2
+27,Nate & Daniella,hot,1,5.898,2.818,13.4
+28,Nate & Daniella,hot,1,5.541,2.581,10.9
+29,Nate & Daniella,hot,1,5.612,2.758,12.4
+30,Nate & Daniella,hot,1,5.831,2.688,12.2
+31,"Andrew,Karla,Harrison",cold,1,4.689,2.467,6.3
+32,"Andrew,Karla,Harrison",cold,1,4.656,2.008,5.8
+33,"Andrew,Karla,Harrison",cold,1,5.498,2.427,8.7
+34,"Andrew,Karla,Harrison",cold,1,4.299,1.979,4.8
+35,"Andrew,Karla,Harrison",cold,1,3.398,1.694,3
+36,"Kevin, Jess, Allison",hot,1,3.978,2.001,5.6
+37,"Kevin, Jess, Allison",hot,1,4.87,2.33,9.2
+38,"Kevin, Jess, Allison",hot,1,4.254,2.087,4.7
+39,"Kevin, Jess, Allison",hot,1,3.993,1.965,5.5
+40,"Kevin, Jess, Allison",hot,1,4.781,2.057,6.9
+41,"Annie,Erin, Caitlin",hot,1,4.33,2.13,5.4
+42,"Annie,Erin, Caitlin",hot,1,4.9,2.4,9.5
+43,"Annie,Erin, Caitlin",hot,1,4.47,2,6.2
+44,"Annie,Erin, Caitlin",hot,1,3.886,2.076,4.6
+45,"Annie,Erin, Caitlin",hot,1,4.53,2.2,6.1
+46,Emma & Andrea,hot,1,4.307,1.949,7.5
+47,Emma & Andrea,hot,1,4.201,1.873,6.7
+48,Emma & Andrea,hot,1,4.025,1.945,6.8
+49,Emma & Andrea,hot,1,3.382,1.473,3.8
+50,Emma & Andrea,hot,1,3.974,2.165,7.7
+51,"Andrew,Karla,Harrison",cold,1,5.011,2.513,10.1
+52,"Andrew,Karla,Harrison",cold,1,5.84,2.669,14.4
+53,"Andrew,Karla,Harrison",cold,1,4.921,2.299,8.9
+54,"Andrew,Karla,Harrison",cold,1,4.207,1.839,6.6
+55,"Andrew,Karla,Harrison",cold,1,4.319,1.946,7.3
+56,Nate & Daniella,hot,1,5.776,2.732,10.9
+57,Nate & Daniella,hot,1,5.212,2.364,9
+58,Nate & Daniella,hot,1,5.732,2.717,10.4
+59,Nate & Daniella,hot,1,5.015,2.47,9.1
+60,Nate & Daniella,hot,1,5.288,2.514,9.9
+61,"Kevin, Jess, Allison",cold,1,4.592,2.341,8.5
+62,"Kevin, Jess, Allison",cold,1,4.316,1.994,6.5
+63,"Kevin, Jess, Allison",cold,1,4.588,2.241,7.5
+64,"Kevin, Jess, Allison",cold,1,3.738,1.963,4.7
+65,"Kevin, Jess, Allison",cold,1,4.85,2.547,9.2
+66,Emma & Andrea,hot,1,4.395,1.982,7.9
+67,Emma & Andrea,hot,1,3.771,1.992,5.9
+68,Emma & Andrea,hot,1,3.738,2.013,5
+69,Emma & Andrea,hot,1,4.038,1.954,6.9
+70,Emma & Andrea,hot,1,4.532,2.216,9
+71,"Andrew,Karla,Harrison",cold,1,4.866,2.196,7.3
+72,"Andrew,Karla,Harrison",cold,1,4.837,2.307,6.9
+73,"Andrew,Karla,Harrison",cold,1,4.139,1.98,5.2
+74,"Andrew,Karla,Harrison",cold,1,4.845,1.93,6.3
+75,"Andrew,Karla,Harrison",cold,1,5.182,2.311,9.4
+76,"Annie,Erin, Caitlin",hot,1,5.24,2.596,10.8
+77,"Annie,Erin, Caitlin",hot,1,4.325,2.4,6.4
+78,"Annie,Erin, Caitlin",hot,1,3.99,1.783,5.3
+79,"Annie,Erin, Caitlin",hot,1,4.06,1.975,5.2
+80,"Annie,Erin, Caitlin",hot,1,5.08,2.33,9.2

@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Weight_g by Tank
+W = 689.5, p-value = 0.2897
+alternative hypothesis: true location shift is not equal to 0
+
